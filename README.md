@@ -7,7 +7,7 @@ This project provides a set of Python tools for processing IMU data, performing 
 
 ### Orientation Tracking vs VICON Ground Truth
 
-![optimize_1.png](result/dataset1/optimize_1.png)
+![optimize_1.png]((result/dataset1/panorama_1.png))
 
 ### Panorama Construction Example
 
