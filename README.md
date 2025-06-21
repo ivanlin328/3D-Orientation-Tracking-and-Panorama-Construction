@@ -3,6 +3,17 @@
 
 This project provides a set of Python tools for processing IMU data, performing orientation tracking, and generating panoramic visualizations using magnetic and inertial sensor data.
 
+## Example Results
+
+### Orientation Tracking vs VICON Ground Truth
+
+![optimize_1.png](result/dataset1/optimize_1.png)
+
+### Panorama Construction Example
+
+![panorama_1.png](result/dataset1/panorama_1.png)
+
+
 ## Features
 
 - **Orientation Tracking**: Sensor fusion from IMU data to estimate device orientation  
